@@ -1,2 +1,2 @@
-# easy-anboox-installer
+# easy-anbox-installer
 anboxをubuntuに簡単にインストール
