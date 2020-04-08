@@ -1,2 +1,2 @@
 # easy-anbox-installer
-anboxをubuntuに簡単にインストール
+anboxをubuntuに簡単にインストールするスクリプトです。
